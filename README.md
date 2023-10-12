@@ -16,3 +16,9 @@ import sys
 sys.path.append("..")   
 import d2lzh_pytorch as d2l  
 device = torch.device('cuda')   
+
+各位可以去看看这本书 https://tangshusen.me/Dive-into-DL-PyTorch/#/   
+我文件中的d2lzh_pytorch就是从这个网站中下载出来的，上述的 hotdog 的训练集也是如此  
+
+
+此库应该会持续更新中，虽然我还是个萌新，但是还会持续学习下去，直到可以独立写出自己的ai
